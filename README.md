@@ -1,2 +1,2 @@
-# JAVify
-JAV model search from japanese AV models form the database of all models
+# Facenet for keras 
+Facenet model for finding the faces based on VGG-16 model
